@@ -45,25 +45,25 @@ section,
 article,
 aside {
   background-color: #f9f7ff;
-  border: 2px solid #9779ec;
+  border: 2px solid #ff7300;
 }
 
 nav::before,
 section::before,
 article::before,
 aside::before {
-  color: #9779ec;
+  color: #e00f0f;
 }
 
 h1 {
   font-size: 18px;
   background-color: #ffffff;
-  border: 2px solid #ff994f;
+  border: 2px solid #0011fd;
 }
 
 h1::before {
   content: "h1";
-  color: #ff994f;
+  color: #0026ff;
 }
 
 p {
